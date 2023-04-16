@@ -11,7 +11,7 @@
 <body>
     <table>
         <td>
-            <img src="C:\Users\siqi\OneDrive\图片\Documents\a\jisoo.png-modified.png" alt="这是我的图片">
+            <img src="https://c-ssl.duitang.com/uploads/item/202004/07/20200407174302_SNaXV.thumb.400_0.jpeg" alt="这是我的图片">
         </td>
         <td>
             <i>
